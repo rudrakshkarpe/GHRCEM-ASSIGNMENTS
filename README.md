@@ -11,6 +11,7 @@
 | Roll No. | SCOB86 |
 
 
-- Feedback: rudraksh.karpe@gmail.com
+- Feedback: - rudraksh.karpe@gmail.com
+            - rudraksh.karpre.cs@ghrcem.raisoni.net
 ## Designed By Rudraksh Karpe 
 ### @rudrakshkarpe
