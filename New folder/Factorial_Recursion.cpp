@@ -5,7 +5,6 @@ int factorial(int n);
 
 int main()
 {
-
     int n;
 
     cout << "Enter a positive integer: ";
@@ -15,7 +14,6 @@ int main()
 
     return 0;
 }
-
 int factorial(int n)
 {
     if (n > 1)
