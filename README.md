@@ -1,7 +1,6 @@
 
 # SY Assignments
 
--- updated
 
 ### This is an open source initiative to provide quality assignments to the GHRCEM Computer Engineering students. Hope you'll learn and contribute.
 
