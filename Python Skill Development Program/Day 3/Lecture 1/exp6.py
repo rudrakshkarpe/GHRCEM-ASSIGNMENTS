@@ -1,4 +1,0 @@
-# SCOB86_Rudraksh Karpe
-
-tuple1 = (1, 2, 3, 4, 5, 6, 7, 8, 9)
-print(tuple1[3:6])

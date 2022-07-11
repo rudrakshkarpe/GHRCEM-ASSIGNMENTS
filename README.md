@@ -7,8 +7,7 @@
 
 | Repository Designed for | SY GHRCEM |
 | --------------------| -------------- |
-| Name | Rudraksh Karpe |
-| Roll No. | SCOB86 |
+|
 
 
 ### Feedback: 
