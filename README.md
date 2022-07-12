@@ -6,9 +6,5 @@
 ### [SEM III | SY Assignments](https://drive.google.com/drive/folders/1tTN_Z4A2KcQ2x9RtvSEtvPegCmdHHMF2?usp=sharing)
 
 
-
-### Feedbacks are welcome at :)
+### Feedbacks are welcome :)
 - rudraksh.karpe@gmail.com
-
-## Designed By Rudraksh Karpe 
-### @rudrakshkarpe
