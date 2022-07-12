@@ -7,10 +7,7 @@
 
 
 
-### Feedback: 
- 
-
-
+### Feedbacks are welcome at :)
 - rudraksh.karpe@gmail.com
 
 ## Designed By Rudraksh Karpe 
